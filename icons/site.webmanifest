@@ -1,0 +1,19 @@
+{
+    "name": "mradio",
+    "short_name": "mradio",
+    "icons": [
+        {
+            "src": "https://hyphenc.github.io/mradio/icons/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://hyphenc.github.io/mradio/icons/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#444444",
+    "background_color": "#444444",
+    "display": "standalone"
+}
