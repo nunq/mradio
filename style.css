@@ -4,6 +4,7 @@ body {
   color: #eee;
   margin: 0;
   margin-bottom: 100px;
+  user-select: none;
 }
 
 .info {
