@@ -12,10 +12,12 @@ document.addEventListener("DOMContentLoaded", function() {
 function stop() {
   player.pause();
   navbar.style.display = "none";
+  document.title = "mradio";
 }
 
 function playchannel(url, name) {
   document.getElementById("playertitle").innerHTML = name;
+  document.title = "Playing " + name;
   navbar.style.display = "flex";
   player.src = url;
   player.load();
