@@ -10,5 +10,5 @@ var streams = [
   ["#/g/punk Radio", "http://cyberadio.pw:8000/stream", "https://i.imgur.com/gY5kFNN.png"],
   ["somafm Deep Space One", "https://ice1.somafm.com/deepspaceone-128-mp3", "https://i.imgur.com/CGzSDuR.jpg"],
   ["somafm GS Classic", "https://ice4.somafm.com/gsclassic-128-mp3", "https://i.imgur.com/MkUQku4.jpg"],
-  ["dangeru.us radio", "http://radio.dangeru.us:8000/stream.ogg", "https://i.imgur.com/G7uCH7t.png"],
+  ["late.city radio", "http://late.city:8000/latestation.ogg", "https://i.imgur.com/XBfAPMI.png"],
 ];
